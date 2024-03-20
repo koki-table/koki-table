@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![github-top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koki-tablei&theme=dark&exclude_repo=settings)
+![github-top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koki-table&theme=dark&exclude_repo=settings)
